@@ -10,5 +10,6 @@
         android:id="@+id/imgbtnEat"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:src="@drawable/eat_duck" />
+        android:src="@drawable/eat_duck"
+        />
 </FrameLayout>
